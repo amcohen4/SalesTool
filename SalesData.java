@@ -3,7 +3,7 @@
  * Allen -- Represent the sales data for a given period.
  */
 public class SalesData {
-	int data[] = {0, 4, 42, 84, 12};
+	int data[] = {0, 4, 42, 84, 12, 13};
 	
 	public void display() {
 		System.out.println("Data: ");
