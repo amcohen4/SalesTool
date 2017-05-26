@@ -1,6 +1,6 @@
 
 /**
- * Represent the sales data for a given period.
+ * Allen -- Represent the sales data for a given period.
  */
 public class SalesData {
 	int data[] = {0, 4, 42, 84};
